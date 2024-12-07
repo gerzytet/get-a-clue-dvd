@@ -1,0 +1,21 @@
+{
+  "name": "get-a-clue-dve",
+  "version": "1.0.0",
+  "description": "Website to replace the clue dvd while allowing play with original board and pieces, with enchanced functionality",
+  "main": "index.js",
+  "scripts": {
+    "start": "./run.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fastify": "^5.1.0"
+  },
+  "author": "gerzytet",
+  "license": "GPL-3.0-or-later",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
